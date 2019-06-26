@@ -1,0 +1,1 @@
+puts "The error tells me the calculate_product method only received 1 value, when it was expecting 2."
