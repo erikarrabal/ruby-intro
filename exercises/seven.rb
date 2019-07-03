@@ -1,0 +1,1 @@
+# An array stores value in order traditionally, while a has stores key value pairs
